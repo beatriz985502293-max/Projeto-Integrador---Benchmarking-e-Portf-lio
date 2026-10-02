@@ -33,7 +33,7 @@ Durante a análise, algumas observação entre os perfis:
 
 ### Reflexão
 
-Ao analisar os dez perfis brasileiros no GitHub, percebi que um perfil
+Ao analisar os dez perfis no GitHub, percebi que um perfil
 bem organizado pode fazer bastante diferença na forma como um profissional
 é apresentado. Uma coisa que apareceu em vários perfis foi uma descrição
 simples, falando sobre a área de atuação e as principais tecnologias
