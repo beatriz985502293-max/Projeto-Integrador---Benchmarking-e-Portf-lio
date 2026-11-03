@@ -52,3 +52,41 @@ escolher meus melhores projetos para deixar em destaque. Também quero
 melhorar os READMEs dos meus repositórios e deixar as informações mais
 organizadas. Acredito que essas mudanças podem deixar meu GitHub mais
 profissional e facilitar para outras pessoas entenderem minhas habilidades.
+
+
+# Projeto Integrador — Benchmarking e Portfólio
+
+## Sobre o Projeto
+
+Projeto acadêmico desenvolvido no curso de Tecnologia da Informação, com o objetivo de analisar perfis profissionais no GitHub e aplicar boas práticas na organização de um portfólio.
+
+## Objetivos
+
+- Analisar perfis de profissionais da tecnologia.
+- Identificar boas práticas de organização.
+- Melhorar a apresentação do perfil GitHub.
+- Organizar e destacar projetos acadêmicos.
+
+## Etapas Desenvolvidas
+
+**Etapa 1 — Benchmarking:** pesquisa e análise de 10 perfis profissionais no GitHub.
+
+**Etapa 2 — Organização do Perfil:** melhorias na apresentação, documentação e organização dos repositórios.
+
+## Ferramentas Utilizadas
+
+- Git
+- GitHub
+- Markdown
+
+## 👩‍💻
+
+**Beatriz Vitória**
+
+Graduanda em Tecnologia da Informação.
+
+Interesses: Análise de Sistemas, Python e Soluções Tecnológicas.
+
+GitHub: https://github.com/beatriz985502293-max
+
+---
